@@ -39,7 +39,7 @@ A full-stack single-page CRUD web application where users can:
 
 These instructions are for getting a copy of the project on your local environment.
 
-* Clone/Fork - `git clone https://github.com/Maxmi/TodoList-App.git`
+* Clone/Fork - `git clone https://github.com/PradhyumnaP15/TodoList-App.git`
 * Install npm packages - `npm install`
 
 # Setting up your database
