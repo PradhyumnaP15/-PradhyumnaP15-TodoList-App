@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/app.js",
+  "engines": {
+    "node": "14.7.0"
+  }
   "scripts": {
     "start": "node src/app.js",
     "db:init": "npm run db:create && npm run db:schema",
